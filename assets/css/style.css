@@ -1,0 +1,21 @@
+h1 {
+    color: #960742;
+    font-family: 'Hanalei Fill', cursive;
+} 
+
+h3 {
+    color: rgb(9, 18, 145);
+    font-family: 'Modern Antiqua', cursive;
+}
+
+.jumbotron {
+    background-image: url('../images/sparkles-background.jpg');
+    background-size: 100%;
+}
+
+.words {
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+    
